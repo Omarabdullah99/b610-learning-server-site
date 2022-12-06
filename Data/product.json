@@ -1,0 +1,118 @@
+[
+    {
+    "id": 1,
+    "title": "Basic English Course",
+    "price": 5000,
+    "description": "We will be given the basic idea of ​​English in this course. This course will give a full concept of Tens and teach the essential grammar of English.This course will clear your understanding of basic English",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F665997&psig=AOvVaw3mLCu764DhG-7YJ2q4h8Dq&ust=1666791092062000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMDdiOq--_oCFQAAAAAdAAAAABAI",
+    "rating": {
+    "rate": 4.2,
+    "count": 120
+    },
+
+    "author": {
+        "name": " Md. Ayyub",
+       "Educational qualification":"Honors in English Deparment from Dhaka University",
+        "img": "https://freepngimg.com/thumb/categories/1491.png"
+      }
+
+    },
+
+
+    {
+    "id": 2,
+    "title": "Basic Math course ",
+    "price": 2000,
+    "description": "This course covers basic math concepts. Here more important topics including L.C.M., H.C.F., Unitary Law, Simplification, Vectors, Geometry are discussed in detail.This course will clear your basic concepts of mathematics",
+    "image": "https://mero.school/uploads/thumbnails/course_thumbnails/course_thumbnail_default_70.jpg?time=1650781356",
+    "rating": {
+    "rate": 4.0,
+    "count": 259
+    },
+
+    "author": {
+        "name": "Md. Sofik Islam",
+       "Educational qualification":"Honors in Math Deparment from Dhaka University",
+        "img": "https://freepngimg.com/thumb/categories/1491.png"
+      }  
+    },
+
+
+    {
+    "id": 3,
+    "title": "Bsc Preparation Course",
+    "price": 5000,
+    "description": "This course is arranged with BCS final preparation. Here are different year questions including Bengali, Numerical, English, History, Current Affairs.And the important things of each topic are arranged separately",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": {
+    "rate": 4.7,
+    "count": 500
+    },
+
+    "author": {
+        "name": "Md. Rezvi Islam",
+       "Educational qualification":"Honors in Economy Deparment from Dhaka University",
+        "img": "https://freepngimg.com/thumb/categories/1491.png"
+      }
+    },
+
+
+    {
+    "id": 4,
+    "title": "Spoken English",
+    "price": 4555,
+    "description": "Our Speaking English course teaches you how to speak English fluently. Every day some new words are taught, correct pronunciation of words is taught and every day there are some exercises.There are assignments two days a weekSpeak English in front of everyone",
+    "image": "https://p.kindpng.com/picc/s/186-1860959_unique-14-cliparts-for-free-english-speaking-png.png",
+    "rating": {
+    "rate": 4.1,
+    "count": 430
+    },
+    "author": {
+        "name": "Md. Ayyub",
+       "Educational qualification":"Honors in English Deparment from Dhaka University",
+        "img": "https://freepngimg.com/thumb/categories/1491.png"
+      }
+
+    },
+
+
+    {
+    "id": 5,
+    "title": "UI/UX Design",
+    "price": 6000,
+    "description": "Our course covers ui/ux in detail Each of Photoshop's tools are shown, Illustrator's tools are shown, and 12 professional-level designs are shown.",
+    "image": "https://www.pngitem.com/pimgs/m/217-2179955_ui-ux-designing-png-transparent-png.png",
+    "rating": {
+    "rate": 4.6,
+    "count": 400
+    },
+    "author": {
+        "name": "Md. Ayyub",
+       "Educational qualification":"Honors in English Deparment from Dhaka University",
+        "img": "https://freepngimg.com/thumb/categories/1491.png"
+      }
+    },
+
+    {
+    "id": 6,
+    "title": "Full Stack Web Devlopment Course ",
+    "price": 8000,
+    "description": "This course provides guidance on full stack web development.From web design to Bootstrap, Tailwind, JS, React, Next.js and authentication are shown",
+    "image": "https://www.pngitem.com/pimgs/m/4-42516_full-stack-developer-png-transparent-png.png",
+    "rating": {
+    "rate": 4.5,
+    "count": 70
+    },
+    "author": {
+        "name": "Md. Ayyub",
+       "Educational qualification":"Honors in English Deparment from Dhaka University",
+        "img": "https://freepngimg.com/thumb/categories/1491.png"
+      }
+
+    }
+
+  
+    
+ 
+   
+    ]
